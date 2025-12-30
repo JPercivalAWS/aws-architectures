@@ -6,7 +6,7 @@ This repository contains simple AWS architecture diagrams demonstrating cloud fu
 
 ## Static Website Hosting on AWS
 
-![Static Website Architecture](diagrams/Static-Website-Architecture.drawio.png)
+![Static Website Architecture](diagrams/static-website-architecture.png)
 
 **Purpose**  
 Host a static website with low cost, high availability, and global performance.
