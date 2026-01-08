@@ -19,7 +19,7 @@ This design does not support server-side logic but keeps operational complexity 
 
 ## IAM Permission Flow
 
-![IAM Permission Flow](diagrams/iam-permission-flow.png)
+![IAM Permission Flow](diagrams/iam-permissions-flow.png)
 
 **Purpose**  
 Shows how an IAM User as part of an IAM Group is allowed to make actions with AWS Resources
